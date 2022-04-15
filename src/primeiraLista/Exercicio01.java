@@ -16,10 +16,16 @@ public class Exercicio01 {
 		num1 = sc.nextInt();
 		num2 = sc.nextInt();
 		
+		if(num1 == num2) {
+			System.out.println("Numeros iguais");
+			return;
+		}
+		
 		if (num1 > num2)
 			System.out.println("O numero " + num1 + " é o maior entre eles");
-		else
+		else {
 			System.out.println("O numero " + num2 + " é o maior entre eles");
+		}
 
 	}
 
