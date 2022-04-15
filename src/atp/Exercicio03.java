@@ -1,4 +1,4 @@
-package aed;
+package atp;
 
 import java.util.Scanner;
 
