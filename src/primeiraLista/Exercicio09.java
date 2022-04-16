@@ -15,7 +15,7 @@ public class Exercicio09 {
 		Scanner sc = new Scanner(System.in);
 		double dian, mesn, anon, diad, mesd, anod, idade;
 
-		System.out.println("Digite o dia que você nasceu o mês e o ano: ");
+		System.out.println("Digite o dia, mês e o ano em que você nasceu: ");
 		dian = sc.nextDouble();
 		mesn = sc.nextDouble();
 		anon = sc.nextDouble();
@@ -27,10 +27,10 @@ public class Exercicio09 {
 		
 		idade = dian + (30 * mesn) + (365 * (anod - anon));
 		
-		if ((idade > 5840) || (idade == 5840) && (idade < 6570)) {
+		if (idade >= 5840 && (idade < 6570)) {
 			System.out.println("Você já atingil a maior idade civil!");
 		} else if (idade > 6570 || idade == 6570) {
-			System.out.println("Você já atingil a maior idade civil!");
+			System.out.println("Você já atingil a maior idade penal!");
 		}
 	}
 }
