@@ -26,7 +26,7 @@ public class Exercicio13 {
 		System.out.println("Vendedor por favor digite a quantidade de vendas do mês: ");
 		totalVend = sc.nextInt();
 		
-		if (totalVend < 10000 || totalVend == 10000) {
+		if (totalVend <= 10000) {
 			salarioT = salaFix + (0.03 * totalVend);
 			System.out.println("O código do vendedor é: " + numVend 
 					+ "\nO tota de vendas efetuadas são: " + totalVend
