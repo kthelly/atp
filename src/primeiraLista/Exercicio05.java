@@ -19,10 +19,9 @@ public class Exercicio05 {
 		
 		if (num1 == num2) {
 			System.out.println("NÚMEROS IGUAIS");
-			return;
 		}
 		
-		if (num1 > num2) {
+		else if (num1 > num2) {
 			System.out.println("O numero " + num1 + " é o maior");
 		} else {
 			System.out.println("O numero " + num2 + " é o maior");
