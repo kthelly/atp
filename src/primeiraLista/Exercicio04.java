@@ -16,7 +16,7 @@ public class Exercicio04 {
 		num1 = sc.nextInt();
 		
 		if (num1 == 0) {
-			System.out.println("Número inválido");
+			System.out.println("Zero não é nem positivo nem negativo, mas ele é par.");
 			return;
 		}
 		
