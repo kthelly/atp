@@ -1,4 +1,4 @@
-package condicionaisErepeticao;
+package lista02;
 
 import java.util.Scanner;
 
