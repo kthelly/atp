@@ -27,6 +27,7 @@ public class Exercicio01 {
 			System.out.println("O numero " + num2 + " é o maior entre eles");
 		}
 
+		sc.close();
 	}
 
 }

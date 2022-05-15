@@ -26,6 +26,7 @@ public class Exercicio02 {
 			System.out.println("O numero " + num3 + " é o menor entre eles");
 		}
 
+		sc.close();
 	}
 
 }
