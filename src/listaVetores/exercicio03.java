@@ -9,7 +9,7 @@ public class exercicio03 {
 
 		/*
 		 * Crie um programa que leia um vetor A de 10 valores e contrua um vetor B, da
-		 * seguinte forma: Ex.: Vetor A 3 8 7 12 ... 5 Vetor B 9 4 21 6 ... 15
+		 * seguinte forma: Ex: Vetor A 3 8 7 12 ... 5 Vetor B 9 4 21 6 ... 15
 		 */
 
 		// Declaração de variaveis.

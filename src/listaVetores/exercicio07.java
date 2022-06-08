@@ -7,7 +7,7 @@ public class exercicio07 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		/*
-		 * Faça um programa que preencha um vetor de 12 posições e em seguida leia
+		 * Faça um programa que preencha um vetor com 12 posições e em seguida leia
 		 * também dois valores X e Y quaisquer correspondentes a duas posições (índices)
 		 * no vetor. Ao final seu programa deverá escrever a soma dos valores
 		 * encontrados entre as respectivas posições X e Y. Você deve verificar se os

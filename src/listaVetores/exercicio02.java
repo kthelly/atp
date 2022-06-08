@@ -8,7 +8,7 @@ public class exercicio02 {
 		Scanner sc = new Scanner(System.in);
 		/*
 		 * Faça um programa que preencha dois vetores, X e Y, com dez números inteiros
-		 * cada. Calcule e mostre os seguintes vetores resultantes: a) A soma de X e Y;
+		 * cada. Calcule e mostre os seguintes vetores resultantes: a) Soma de X e Y;
 		 * O produto de X e Y;a
 		 */
 

@@ -7,7 +7,7 @@ public class exercicio08 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		/*
-		 * Faça um programa que preencha um vetor de 16 posições e troque os 8 primeiros
+		 * Faça um programa que preencha um vetor com 16 posições e troque os 8 primeiros
 		 * valores pelos 8 últimos e vice-e-versa. Escreva ao final o vetor obtido.
 		 */
 

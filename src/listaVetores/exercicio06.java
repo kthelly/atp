@@ -8,7 +8,7 @@ public class exercicio06 {
 		Scanner sc = new Scanner(System.in);
 
 		/*
-		 * Crie um programa que, dados dois vetores de 10 posições cada, efetue as
+		 * Crie um programa que, dados dois vetores (10 posições cada), efetue as
 		 * operações aritméticas básicas (+, -, *, /), indicadas por um terceiro vetor
 		 * cujos dados também são fornecidos pelo usuário, gerando e imprimindo um
 		 * quarto vetor

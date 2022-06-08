@@ -8,7 +8,7 @@ import java.util.Scanner;
  * B[0] = 1*A[0] 
  * B[1] = 2*A[1] 
  * B[2] = 3*A[1] + 2*A[2] 
- * B[3] = 4*A[1] + 3*A[2] + 2*A[3] ( ...e assim por diante,)
+ * B[3] = 4*A[1] + 3*A[2] + 2*A[3] ( ...assim por diante,)
  */
 public class exercicio05 {
 

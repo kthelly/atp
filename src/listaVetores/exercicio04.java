@@ -9,7 +9,7 @@ public class exercicio04 {
 
 		/*
 		 * Faça um Programa que leia dois vetores com 25 elementos cada. Gere um
-		 * terceiro vetor de 50 elementos, cujos valores deverão ser compostos pelos
+		 * terceiro vetor com 50 elementos, cujos valores deverão ser compostos pelos
 		 * elementos intercalados dos dois outros vetores.
 		 */
 
